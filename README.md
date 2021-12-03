@@ -7,4 +7,4 @@ generateur random de X nombre entre 0 er 36 compris et cela vous dit les statist
 
 # How to launch 
 
-    docker build -t roulette -f Dockerfile . ; docker run roulette
+    docker build -t roulette_stat -f Dockerfile . ; docker run roulette_stat
